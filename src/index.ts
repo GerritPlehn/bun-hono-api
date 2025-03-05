@@ -13,5 +13,3 @@ process.on("beforeExit", async () => {
 	await server.stop();
 	db.close(false);
 });
-
-console.log(1);
