@@ -15,7 +15,7 @@ Playing around with Bun, Hono, SQLite to build a simple API with [Northwind](htt
 ## Usage
 
 ```bash
-git submodule init --update
+git submodule update --init
 bun i
 bun run dev
 ```
