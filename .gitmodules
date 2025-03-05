@@ -1,0 +1,3 @@
+[submodule "northwind"]
+	path = northwind
+	url = https://github.com/jpwhite3/northwind-SQLite3.git
